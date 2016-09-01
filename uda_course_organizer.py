@@ -6,6 +6,9 @@ filename = "udacity.json"
 tracks_outfile_name = "udacity_tracks.json"
 courses_filename = "course_data.json"
 
+# u_data = urllib.urlopen('https://www.udacity.com/public-api/v0/courses')
+# raw_data = u_data.read()
+
 raw_data = open(filename).read()
 jo = json.loads(raw_data)
 # tracks_data = jo["tracks"]
@@ -71,11 +74,6 @@ print len(result_course_list)
 
 # with open(raw_data, 'w') as fp:
 # 	json.dump(data, fp)
-
-
-
-
-
 
 # tracks_string = json.dumps(tracks_data)
 
