@@ -1,0 +1,33 @@
+{
+    "subtitle": "", 
+    "key": "ud843", 
+    "image": "https://lh3.googleusercontent.com/Hp4UrpBlkIwM1VvtEOVAOaTZf9C6X0FXX0lKu3jllapJIlIw5hK_3tDzXamszoTC0PG_cswnx8y6EUl1aQ=s0#w=360&h=220", 
+    "expected_learning": "With over 1.4 billion Android devices worldwide and 82% market share, Android offers you unprecedented opportunities to build apps that can be used by people around the world.\n\nThe next billion people coming online will interact with the internet for the very first time on a mobile device. Building for Android gives you the best opportunity to reach these users and make an impact -- both in your community, and on the world.", 
+    "featured": false, 
+    "project_description": "", 
+    "faq": "", 
+    "teaser_video": {
+        "youtube_url": ""
+    }, 
+    "title": "Android Basics: Networking", 
+    "related_degree_keys": [], 
+    "required_knowledge": "The only pre-requisites for this course are the <a href=\"https://www.udacity.com/course/android-development-for-beginners--ud837\" target=\"_blank\">Android for Beginners course</a> and the <a href=\"https://www.udacity.com/course/android-basics-multi-screen-apps--ud839\" target=\"_blank\">Android Basics: Multiscreen Apps course</a>. Once you've completed both, you'll be ready to continue your education and learn to build networked apps with this course! \n\nAs with those classes, however, you do need a computer that can run Android Studio (see <a href=\"https://developer.android.com/studio/index.html#Requirements\" target=\"_blank\">Android Studio's System Requirements</a> for details).", 
+    "syllabus": "Lesson 1: JSON Parsing\n \nYou'll learn how to understand and decode one of the most common data formats on the web! \n\nLesson 2: HTTP Networking\n\nYou'll learn how to connect your app to the web. \n\nLesson 3: Threads and Parallelism\n\nYou'll learn how to ask your device to do multiple things at once, allowing you to use the network without interrupting your user.", 
+    "new_release": true, 
+    "homepage": "https://www.udacity.com/course/android-basics-networking--ud843?utm_medium=referral&utm_campaign=api", 
+    "project_name": "", 
+    "full_course_available": false, 
+    "instructors": [], 
+    "affiliates": [], 
+    "tracks": [
+        "Android"
+    ], 
+    "banner_image": "", 
+    "short_summary": "This class teaches the basics of networking using Android, and is a part of the Android Basics Nanodegree by Google.", 
+    "slug": "android-basics-networking--ud843", 
+    "starter": false, 
+    "level": "beginner", 
+    "expected_duration_unit": "weeks", 
+    "summary": "This course is a part of the <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" target=\"_blank\">Android Basics Nanodegree by Google</a>.\n\nAndroid apps are everywhere and learning to build them can be a fantastic career move. Continue on your Android app development education and learn to build multi-screen apps!\n\nThis course is designed for students who have completed the <a href=\"https://www.udacity.com/course/android-development-for-beginners--ud837\" target=\"_blank\">Android for Beginners course</a> and the <a href=\"https://www.udacity.com/course/android-basics-multi-screen-apps--ud839\" target=\"_blank\">Android Basics: Multiscreen Apps course</a>. You don\u2019t need any programming experience besides that course!\n\nLearning anything new can be tough. We will walk you through the process of making Android apps, but to get the most out of this course, bring your enthusiasm for learning, and budget time on your calendar to learn with us. It will be an adventure!\n\nBy the end of the course, you\u2019ll build an app that gets you up to date earthquake information! You'll also be continuing your growth as an Android developer by taking the next step towards the Android Developer Nanodegree.", 
+    "expected_duration": 5
+}
